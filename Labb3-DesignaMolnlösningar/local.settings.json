@@ -1,8 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-    "DefaultConnection": "mongodb+srv://johhul99:braskmannen99@cluster0.l2ff3.mongodb.net/"
-  }
-}
